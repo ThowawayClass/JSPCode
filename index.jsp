@@ -68,7 +68,7 @@ Today's date: <%= (new java.util.Date()).toLocaleString()%>
   <div class=divFooterOne>
     <footer class="footerOne">
       <p> &nbsp&nbsp&nbsp&nbsp<a href="mailto:commando.eight@gmail.com">Contact Us Via Email</a> 
-      Copyright © 2021 Group Seven All Rights Reserved.&nbsp&nbsp&nbsp&nbsp</p>
+      Copyright Â© 2021 Group Seven All Rights Reserved.&nbsp&nbsp&nbsp&nbsp</p>
     </footer>
   </div>
 </div>
