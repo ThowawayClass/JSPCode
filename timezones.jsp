@@ -7,7 +7,7 @@
 <meta name="dcterms.dateCopyrighted" content="2021" />
 <meta name="description" content="Page for Group Seven's first Java 2 assignment" />
 <meta name="keywords" content="keywords describing this page, most search engines 
-ignore this now due to abuse"/>
+ignore this now due to abuse yall"/>
 
 <head>
   <!-- Stylesheet -->
